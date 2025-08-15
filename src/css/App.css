@@ -33,4 +33,11 @@
   to {
     transform: rotate(360deg);
   }
+
+  .IntroductionComponent {
+  text-align: center;
+  margin-top: 80px;
+
 }
+}
+

@@ -1,9 +1,10 @@
-import './App.css';
-import ComponentA from './component/ComponentA';
-import Counter from './component/Counter';
+import './css/App.css';
+import IntroductionComponent from './component/IntroductionComponent';
 function App() {
   return (
-    <Counter />
+    <>
+      {/* <IntroductionComponent name="KTVideosBySri" /> */}
+    </>
   );
 }
 
